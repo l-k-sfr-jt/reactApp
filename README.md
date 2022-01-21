@@ -1,2 +1,2 @@
-# reactApp
+# React components app
 # reactApp
